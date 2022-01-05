@@ -1,0 +1,68 @@
+{
+        "products": [
+              {
+                  "id": 1,
+                  "name": "Tamboli House",
+                  "desc": "dudulgaon,Pune,Maharashtra",
+                  "price": 1999,
+                  "color": "#33505a",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-hero.jpg"
+              },
+              {
+                  "id": 2,
+                  "name": "Mannat House",
+                  "desc": "Goregoan,Ahmednagar,Maharashtra",
+                  "price": 1699,
+                  "color": "#00ac51",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-single-family-4.jpg"
+              },
+              {
+                  "id": 3,
+                  "name": "Narsale House",
+                  "desc": "Goregoan, Ahmednagar,Maharshtra",
+                  "price": 1099,
+                  "color": "#e0bfae",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/types-of-homes-tiny-home-5.jpg"
+              },
+              {
+                  "id": 4,
+                  "name": "Thorat House",
+                  "desc": "Sakur,Ahmednagar,Maharashtra",
+                  "price": 1599,
+                  "color": "#544ee4",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/cape-cod-house-style-7.jpg"
+              },
+              {
+                  "id": 5,
+                  "name": "SwapnPurti House",
+                  "desc": "Goregoan,Ahmednagar,Maharashtra",
+                  "price": 1999,
+                  "color": "#e3e4e9",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/colonial-home-style-8.jpg"
+              },
+              {
+                  "id": 6,
+                  "name": "Rajratn House",
+                  "desc": "Nashik,Maharashtra",
+                  "price": 799,
+                  "color": "#f73984",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/cottage-house-style-10.jpg"
+              },
+              {
+                  "id": 7,
+                  "name": "Sonawane House",
+                  "desc": "Vidyanagari,Dhule,Maharashtra",
+                  "price": 999,
+                  "color": "#1c1c1c",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/craftsman-house-style-11.jpg"
+              },
+              {
+                  "id":8,
+                  "name": "Deore House",
+                  "desc": "Sakri,Dhule,Maharashtra",
+                  "price": 899,
+                  "color": "#7c95eb",
+                  "image": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/TypesOfHomes/greek-revival-home-style-14.jpg"
+              }
+        ]
+}
